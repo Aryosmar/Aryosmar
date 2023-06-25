@@ -1,3 +1,7 @@
+Oi,sou Aryosmar.🖐️
+
+Sou um aluno no 7º período de Ciência da Computação, com um foco principal em HTML, CSS, Python e JavaScript. Tenho uma paixão pela construção de interfaces web elegantes e funcionais, utilizando as linguagens HTML e CSS para criar a estrutura e o estilo visual dos sites.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
