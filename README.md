@@ -1,6 +1,12 @@
-Oi,sou Aryosmar.🖐️
+# **Oi,sou Aryosmar**🖐️
 
-Sou um aluno no 7º período de Ciência da Computação, com um foco principal em HTML, CSS, Python e JavaScript. Tenho uma paixão pela construção de interfaces web elegantes e funcionais, utilizando as linguagens HTML e CSS para criar a estrutura e o estilo visual dos sites.
+#### Atualmente, sou aluno do 9º período de Ciência da Computação, com ênfase em HTML, CSS, Python e JavaScript. Já tive contato com Java, com C (mas não me aprofundei) e com banco de dados PostgreSQL. Aprendo rápido e gosto muito de pesquisar e aprender tecnologias novas.
+
+💻 **Desenvolvedor Full Stack**
+
+🤓​ **Estudando desenvolvimento web**
+
+📧​ **Contate-me pelo e-mail: aryfelipealmeida95@gmail.com**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
