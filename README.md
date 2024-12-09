@@ -1,6 +1,6 @@
 # **Oi,sou Aryosmar**🖐️
 
-#### Atualmente, sou aluno do 9º período de Ciência da Computação, com ênfase em HTML, CSS, Python e JavaScript. Já tive contato com Java, com C (mas não me aprofundei) e com banco de dados PostgreSQL. Aprendo rápido e gosto muito de pesquisar e aprender tecnologias novas.
+#### Atualmente, sou aluno do 10º período de Ciência da Computação, com ênfase em HTML, CSS, Python e JavaScript. Já tive contato com Java, com C (mas não me aprofundei) e com banco de dados PostgreSQL. Aprendo rápido e gosto muito de pesquisar e aprender tecnologias novas.
 
 💻 **Desenvolvedor Full Stack**
 
